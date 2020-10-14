@@ -46,3 +46,6 @@ if answer.lower() == "yes":
                 print("You won!")
             else:
                 print("You lost!")
+
+        if end == "no":
+            print("Bye!")
